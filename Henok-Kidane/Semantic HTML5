@@ -1,0 +1,79 @@
+<doctype html>
+<head>
+  <title>QC: New Comics Every Monday Through Friday</title>
+</head>
+<body>
+<div>Patreon Advertisment</div>
+<header>
+<h1>Questionable Content by Jeph Jacques</h1>
+</header>
+
+  <nav>
+    <a href="questionablecontent.net">Home</a>   
+    <a href="/arhive/">Archive</a>   
+    <a href="/cast/">Cast</a>   
+    <a href="http://www.topatoco.com/merchant.mvc?Screen=CTGY&Store_Code=TO&Category_Code=QC">Merchandise</a>   
+    <a href="/contact/"Contact</a>   
+    <a href="http://www.questionablecontent.net/QCRSS.xml">RSS</a>   
+  </nav>
+
+  <nav>
+    <a href="http://questionablecontent.net/view.php?comic=1">First</a>   
+    <a href="http://questionablecontent.net/view.php?comic=2807"><Previous</a>   
+    <a href="/#/">Next</a>   
+    <a href="/#/">Last</a>   
+    <a href="http://www.questionablecontent.net/view.php?comic=2535">Random</a>   
+  </nav>
+
+  <section>This is where the comic usually goes; it takes up the vast marjority of the page.</section>
+
+  <aside>
+    <div a href="https://www.gumroad.com/jephjacques">Advertisement for QC Volumes 1 & 2</a></div>
+    <a href="https://www.paypal.com/xclick/business=jephco%40mac.com&no_note=1&tax=0&currency_code=USD">Make A Donation</a>
+    <a href="http://www.asofterworld.com/">A Softer World</a>
+    <a href="http://bunny-comic.com/">Bunny</a>
+    <a href="http://www.dumbingofage.com/">Dave Willis Is A Jerkface</a>
+    <a href="http://www.clango.org/">Diesel Sweeties</a>
+    <a href="http://www.drmcninja.com/">Dr. McNinja</a>
+    <a href="http://www.gwscomic.com/">Girls With Slingshots</a>
+    <a href="Gunnerkrigg Court">http://www.gunnerkrigg.com/</a>
+    <a href="http://www.johnnywander.com/">Johnny Wander</a>
+    <a href="http://www.octopuspie.com/">Octopus Pie</a>
+    <a href="http://www.qwantz.com/>Qwantz</a>
+    <a href="http://hingos.com/patches">Patches</a>
+    <a href="http://www.samandfuzzy.com/">Sam and Fuzzy</a>
+    <a href="http://www.amultiverse.com/">Scenes From A Multiverse</a>
+    <a href="http://somethingpositive.net/">Something Positive</a>
+    <a href="http://www.threewordphrase.com/">Three Word Phrase</a>
+    <a href="http://www.wastedtalent.ca/">Wasted Talent</a>
+    <a href="http://wigucomics.com/">Wigu</a>
+    <a href="http://www.wondermark.com/">Wondermark</a>
+    <a href="http://www.xkcd.com/>XKCD</a>
+
+
+    <a href="/twitter">The QC Cast On Twitter</a>
+    <a href="http://jephjacques.tumblr.com/">Jeph's Tumblr</a>
+    <a href="http://deathmole.bandcamp.com/">Deathmole Music On Bandcamp</a>
+    <a href="http://www.indietits.com/>Indietits</a>
+    <a href="http://forums.questionablecontent.net/">QC Forums</a>
+  </aside>
+
+  <nav>
+    <a href="http://questionablecontent.net/view.php?comic=1">First</a>   
+    <a href="http://questionablecontent.net/view.php?comic=2807"><Previous</a>   
+    <a href="/#/">Next</a>   
+    <a href="/#/">Last</a>   
+    <a href="http://www.questionablecontent.net/view.php?comic=2535">Random</a>   
+  </nav>
+
+  <div>
+    <p>Date/Time Of Publication</p>
+    <article>A blurb about whatever, occasionally related to the above comic</article>
+    <article><div>A slideshow of site-related items for sale</div></article>
+    <a href="https://twitter.com/jephjacques">Tweets by @jephjacques</a>
+  </div>
+
+  <footer>
+    <a href="http://www.questionablecontent.net/privacy.php">Privacy Policy</a>
+  </footer>
+</body>
